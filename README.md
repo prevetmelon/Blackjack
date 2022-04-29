@@ -1,2 +1,2 @@
 # Blackjack
-My first game is JS
+My first game is JS 💚
